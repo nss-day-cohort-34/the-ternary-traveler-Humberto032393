@@ -1,0 +1,78 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Italy",
+      "visa_required": false
+    },
+    {
+      "id": 2,
+      "name": "Switzerland",
+      "visa_required": true
+    },
+    {
+      "id": 3,
+      "name": "France",
+      "visa_required": false
+    }
+  ],
+  "interests": [
+    {
+      "name": "Local Market",
+      "description": "Local Market where you can purchase local food",
+      "cost": "50",
+      "review": "bargain",
+      "placeId": "1",
+      "id": 1
+    },
+    {
+      "name": "Fresh Market",
+      "description": "New Fresh Market",
+      "cost": "3.00",
+      "review": "good",
+      "location": "italy",
+      "id": 2,
+      "placeId": "2"
+    },
+    {
+      "name": "Local Market",
+      "description": "Local Market where you can purchase local food",
+      "cost": "50",
+      "review": "bargain",
+      "placeId": "2",
+      "id": 6
+    },
+    {
+      "name": "",
+      "description": "",
+      "cost": "",
+      "review": "",
+      "placeId": "1",
+      "id": 7
+    },
+    {
+      "name": "",
+      "description": "",
+      "cost": "",
+      "review": "",
+      "placeId": "1",
+      "id": 8
+    },
+    {
+      "name": "Local Market",
+      "description": "Local Market where you can purchase local food",
+      "cost": "50",
+      "review": "bargain",
+      "placeId": "1",
+      "id": 9
+    },
+    {
+      "name": "",
+      "description": "",
+      "cost": "",
+      "review": "",
+      "placeId": "1",
+      "id": 10
+    }
+  ]
+}
